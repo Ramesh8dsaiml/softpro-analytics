@@ -1,0 +1,13 @@
+pydub
+ffmpeg-python
+streamlit
+pandas
+numpy
+scikit-learn
+transformers
+torch
+plotly
+python-dateutil
+openai-whisper
+vosk
+wordcloud
