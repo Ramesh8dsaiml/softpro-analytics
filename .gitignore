@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+myenv/
+venv/
+
+# Audio (Real Calls)
+*.wav
+*.mp3
+*.m4a
+*.aac
+
+# Logs
+*.log
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode / JetBrains
+.vscode/
+.idea/
+
+# FFmpeg and models
+ffmpeg/
+models/
