@@ -27,6 +27,17 @@
 - [Future Scope](#future-scope)
 - [Author](#author)
 - [License](#license)
+  
+
+--------------------------------------------------------------------------------
+#Project Report:
+## click here go to report and Download [Softpro_Analytics_ReportFinal]  ("https://github.com/Ramesh8dsaiml/softpro-analytics/blob/main/Softpro_Analytics_Report%20Final.docx"
+
+<img width="682" height="810" alt="{5416BB94-2D12-4978-B65F-31599041D3AE}" src="https://github.com/user-attachments/assets/35a607bc-800b-40a5-a3a3-7c8a8eaab103" />
+<img width="711" height="808" alt="{4CE21652-34D7-4CE2-AC86-928064D6FA01}" src="https://github.com/user-attachments/assets/3a0d9125-043e-4747-98c9-840521935594" />
+
+
+
 
 #  Overview
 
