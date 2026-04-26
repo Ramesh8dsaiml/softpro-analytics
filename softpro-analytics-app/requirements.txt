@@ -11,4 +11,4 @@ python-dateutil
 openai-whisper
 vosk
 wordcloud
-whisper-tiny
+openai-whisper
