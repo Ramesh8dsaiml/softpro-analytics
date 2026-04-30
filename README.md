@@ -36,11 +36,6 @@
 #Project Report:
 ## click here go to report and Download [Softpro_Analytics_ReportFinal]  ("https://github.com/Ramesh8dsaiml/softpro-analytics/blob/main/Softpro_Analytics_Report%20Final.docx"
 
-<img width="682" height="810" alt="{5416BB94-2D12-4978-B65F-31599041D3AE}" src="https://github.com/user-attachments/assets/35a607bc-800b-40a5-a3a3-7c8a8eaab103" />
-<img width="711" height="808" alt="{4CE21652-34D7-4CE2-AC86-928064D6FA01}" src="https://github.com/user-attachments/assets/3a0d9125-043e-4747-98c9-840521935594" />
-
-
-
 
 #  Overview
 
@@ -153,12 +148,15 @@ softpro-analytics/
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------@
 
 #  Training Output (From PDF)
-
-###  Page 1  
+### page 1
+<img width="1920" height="1144" alt="{477299E2-9AF2-4494-8A2E-22056F98E3B8}" src="https://github.com/user-attachments/assets/c7379d52-72da-45c0-ad8e-03dbf0ab6146" />
+### page 2 
+<img width="1920" height="1094" alt="{4E4B8204-429E-436D-A63B-293582BDAC3E}" src="https://github.com/user-attachments/assets/15c1ab6d-0123-4546-a3fb-2b6c9c6d8cff" />
+###  Page 3 
 <img width="1700" height="2200" alt="softpro_page_1" src="https://github.com/user-attachments/assets/178add85-f160-4b48-85e1-d371db9013ab" />
-###  Page 2 
+###  Page 4
 <img width="1700" height="2200" alt="softpro_page_2 (1)" src="https://github.com/user-attachments/assets/7703077c-4eee-48d4-90cb-731472c76a4e" />
-###  Page 3  
+###  Page 5  
 <img width="1700" height="2200" alt="softpro_page_3" src="https://github.com/user-attachments/assets/c2834804-9d1b-490c-aa0d-f0c12374db90" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------@
