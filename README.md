@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Softpro Analytics  
+#  Softpro Analytics : Customer Analytics System!
 ### **AI-powered Audio Transcription, Sentiment Analysis & Sales Insights Platform**
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
