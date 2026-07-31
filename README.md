@@ -12,6 +12,10 @@
 
 --------------------------------------------------------------------------------
 
+# Complete Workflows':
+<img width="1693" height="929" alt="workflow" src="https://github.com/user-attachments/assets/000c8f46-d906-46a2-a755-d4bd4e05338e" />
+
+
 ## 🚀 Live App:
 [![Live App](https://img.shields.io/badge/Streamlit-Live-green)](https://softpro-analytics-p9jz7bny5jcchiyrgbqvsw.streamlit.app/)
 
